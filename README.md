@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=07Fahim10&color=seagreen)
+![Profile views](https://komarev.com/ghpvc/?username=07Fahim10&color=green)
 
 Skills: HTML / CSS / JavaScript
 
