@@ -6,7 +6,9 @@
 
 <div align="center">
 
+![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Profile views](https://komarev.com/ghpvc/?username=07Fahim10&color=green)
+
 
 Skills: HTML / CSS / JavaScript
 
