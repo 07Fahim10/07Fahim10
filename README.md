@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Focus](https://img.shields.io/badge/Focus-FullStack-critical)
+![Focus](https://img.shields.io/badge/Focus-FullStack-critical/?username=07Fahim10&color=green)
 ![Profile views](https://komarev.com/ghpvc/?username=07Fahim10&color=green)
 
 
