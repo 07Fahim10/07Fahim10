@@ -1,4 +1,10 @@
-<h1 align="center">👉 Welcome To My Git-Hub Profile ⏬</h1>
+<!--<h1 align="center">👉 Welcome To My Git-Hub Profile ⏬</h1> -->
+
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=535&lines=👉+Welcome+To+My+Github+Profile+⏬!" alt="Typing SVG" /></a>
+</p>
+<br>
+
 
 ![I am 07Fahim10](https://github.com/07Fahim10/07Fahim10/blob/main/Black%20and%20Pink%20Shapes%20Facebook%20Cover.png)
 
@@ -70,9 +76,9 @@ Skills: HTML / CSS / JavaScript
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
 
-## Best Repo -
+
+<!-- ## Best Repo -->
 
 <!--  [![CSS Projects](https://github-readme-stats.vercel.app/api/pin/?username=07Fahim10&repo=CSS-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)(https://github.com/07Fahim10/HTM_CSS-project-no.1)
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/harun181/100_plus_C_Problems)
@@ -85,7 +91,7 @@ Skills: HTML / CSS / JavaScript
 
 <br/>
 <hr/>
-<br/>
+
 
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 👉 Github Status ⏬  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
 
@@ -104,88 +110,43 @@ Skills: HTML / CSS / JavaScript
 ![Fahim's Graph](https://github-readme-activity-graph.vercel.app/graph?username=07Fahim10&custom_title=Fahim's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
+<!-- Technologies that I know-->
 
-<h1 align="center">
-  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>
-  &nbsp;Technologies that I know
+<h1 align="center" >
+  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='40px'/>  Technologies & Tools That I Know ❤
 </h1>
 
-<!--
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/6BRCwLQ/bootstrap.png" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1687531061/Store/next_fwgcua.png" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/v4BFdS7/Redux.png" alt="Redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149819/Store/styled-components_uwtdhi.png" alt="styled-components" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/sass_dh63as.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/72RyCgr/route-removebg-preview.png" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://react-query.tanstack.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://i.ibb.co/KG89Bqd/Screenshot-1-removebg-preview.png" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877581/Store/node-js_yvcjpp.png" alt="nodejs" width="35" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1676877264/Store/Express-js_r4har1.png" alt="express" width="40" height="40"/> 
-  </a>
-
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://res.cloudinary.com/dev-shahriyar/image/upload/v1677149356/Store/gatsby_nk1bel.svg" alt="gatsby" width="40" height="40"/> 
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://i.ibb.co/6BRCwLQ/bootstrap.png" alt="bootstrap" width="40" height="40"/>  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
 </p>
 
-  
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=HTML5+CSS3+Bootstrap+Git" alt="Typing SVG" /></a>
+</p>
+
+<!-- Currently Learning-->
+
+<h1 align="center" >
+   ❤ Currently Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=2000&center=true&vCenter=true&width=700&lines=HTML5+CSS3+JavaScript+Typescript+React+;ES6+Redux+React-Router+Context-API+Git+;Tailwind-CSS+Bootstrap-5+Styled-Components+SASS+MaterialUI;Firebase+Nodejs+ExpressJs+MongoDB+JWT;React-Native+NextJs+Gatsby+Heroku+Netlify" alt="Typing SVG" />
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;
+  <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40"/>
 </p>
 
-<hr>
--->
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Tailwind+Java-script+React" alt="Typing SVG" /></a>
+</p>
+  
 
 
-## Connect with me
+
+<h1 align="center">Connect With Me:-</h1>
 
 <div align="center">
 <br/>
