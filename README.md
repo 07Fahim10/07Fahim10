@@ -17,10 +17,10 @@
 
 ![I am 07Fahim10](https://github.com/07Fahim10/07Fahim10/blob/main/Black%20and%20Pink%20Shapes%20Facebook%20Cover.png)
 
-<h2 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">!  I'm Fahim Hasan. </h2>
+<h2 align="center"> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">!  I'm Fahim <img align="center" alt="verify" width="70" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan-verified-icon.gif"> </h2>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh.</h4>
-
+<h4 align="center">
+I'm an enthusiastic and passionate Web Developer from Bangladesh-><img align="center" alt="Coding" width="38" src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/bangladesh-198_256.gif"></h4>
 <div align="center">
 
 ![Focus](https://img.shields.io/badge/Focus-FullStack-critical/?username=07Fahim10&color=green)
@@ -48,6 +48,8 @@ Skills: HTML / CSS / JavaScript
 - 📫 How to reach me **kingfahim7star143@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/07Fahim10](https://lnk.bio/07Fahim10)
+
+-  ⚡ Fun fact **Always Want To Learn More 📚**
 
 <h3 align="left">Connect with me:</h3>
 
