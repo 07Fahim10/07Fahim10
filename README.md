@@ -1,5 +1,4 @@
 <!--<h1 align="center">👉 Welcome To My Git-Hub Profile ⏬</h1> -->
-
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
@@ -9,13 +8,12 @@
 </div>
 
 
-<br>
-
-<p align="center" >
+<!-- <p align="center" >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=535&lines=👉+Welcome+To+My+Github+Profile+⏬!" alt="Typing SVG" /></a>
-</p>
-<br>
+</p> -->
 
+
+<br>
 
 ![I am 07Fahim10](https://github.com/07Fahim10/07Fahim10/blob/main/Black%20and%20Pink%20Shapes%20Facebook%20Cover.png)
 
