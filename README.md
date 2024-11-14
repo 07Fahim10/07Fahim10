@@ -8,10 +8,6 @@
 </div>
 
 
-<!-- <p align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=535&lines=👉+Welcome+To+My+Github+Profile+⏬!" alt="Typing SVG" /></a>
-</p> -->
-
 
 <br>
 
@@ -171,3 +167,13 @@ Skills: HTML / CSS / JavaScript
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
+
+<hr>
+
+ <p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=535&lines=👉+It's+My+Daily+Routine+⏬!" alt="Typing SVG" /></a>
+</p> 
+
+<br>
+
+<img src="https://github.com/NaiyanNoor/NaiyanNoor/blob/main/Gif%20Files/naiyan150201018.gif">
